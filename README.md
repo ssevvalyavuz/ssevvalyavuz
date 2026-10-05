@@ -25,7 +25,7 @@ Yapay zeka destekli sistemler, veri odaklı çözümler ve backend mimarileri ge
 - 🔒 **Görüntü Tabanlı Zararlı Yazılım Sınıflandırması (TÜBİTAK 2209-A):** Kritik altyapılar için TensorFlow ve OpenCV kullanarak derin öğrenme tabanlı zararlı yazılım tespiti projesi.
 - 👁️ **YOLOv8 Real-Time Nesne Tespit ve Sayım:** Canlı video akışı üzerinden nesne tespiti ve istatistiksel veri görselleştirme sistemi.
 - 💡 **RecomAI Hibrit Öneri Sistemi:** Python ve Scikit-learn kullanılarak geliştirilen içerik tabanlı öneri sistemi.
-
+- 🌤️ **AI Weather Assistant:** .NET 8 Minimal API, Semantic Kernel ve Angular 20 ile otonom araç çağırma (Tool Calling) ve bağlamsal parametre tamamlama (Slot Filling) yeteneklerine sahip hava durumu asistanı.
 ---
 
 ### 📬 İletişim & Bağlantılar
