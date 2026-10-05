@@ -21,7 +21,7 @@ Yapay zeka destekli sistemler, veri odaklı çözümler ve backend mimarileri ge
 
 ### 🌟 Öne Çıkan Projeler
 
-- 🤖 **Agentic AI Karar Destek Sistemi:** Borçelik bünyesinde Azure OpenAI ve LangGraph kullanarak 90.000+ satırlık veriyi doğal dil ile analiz eden 7 adımlı hibrit AI altyapısı geliştirdim.
+- 🤖 **Agentic AI Karar Destek Sistemi:** Borçelik bünyesinde Azure OpenAI ve LangGraph kullanarak 90.000+ satırlık veriyi doğal dil ile analiz eden 7 adımlı hibrit AI altyapısı.
 - 🔒 **Görüntü Tabanlı Zararlı Yazılım Sınıflandırması (TÜBİTAK 2209-A):** Kritik altyapılar için TensorFlow ve OpenCV kullanarak derin öğrenme tabanlı zararlı yazılım tespiti projesi.
 - 👁️ **YOLOv8 Real-Time Nesne Tespit ve Sayım:** Canlı video akışı üzerinden nesne tespiti ve istatistiksel veri görselleştirme sistemi.
 - 💡 **RecomAI Hibrit Öneri Sistemi:** Python ve Scikit-learn kullanılarak geliştirilen içerik tabanlı öneri sistemi.
