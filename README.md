@@ -1,6 +1,6 @@
 # Merhaba, Ben Şevval YAVUZ 👋
 
-**Bilgisayar Mühendisi | Yapay Zeka & Yazılım Geliştirici**
+**Bilgisayar Mühendisi**
 
 Yapay zeka destekli sistemler, veri odaklı çözümler ve backend mimarileri geliştirmeye odaklanan bir Bilgisayar Mühendisiyim. Edindiğim tecrübelerle; Azure OpenAI, LangGraph ve Semantic Kernel gibi teknolojilerden yararlanarak doğal dille veri analizi yapan Agentic AI altyapıları ve .NET Core tabanlı REST API'ler kurguladım. C#, Python ve modern yazılım mimarilerini harmanlayarak, yapay zekayı gerçek iş problemlerine uygulayan, performanslı ve ölçeklenebilir çözümler geliştirmeye devam ediyorum.
 
